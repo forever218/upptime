@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/class8.top.ico",
     "slug": "class8",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 340,
-    "timeWeek": 325,
+    "uptime": "99.23%",
+    "uptimeDay": "51.34%",
+    "uptimeWeek": "93.05%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "99.23%",
+    "time": 358,
+    "timeDay": 312,
+    "timeWeek": 330,
     "timeMonth": 356,
-    "timeYear": 359,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2023-01-07": 0
+      "2023-01-08": 76,
+      "2023-01-07": 625
     }
   }
 ]
