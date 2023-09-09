@@ -25,19 +25,19 @@
     "url": "https://2am.top",
     "icon": "https://icons.duckduckgo.com/ip3/2am.top.ico",
     "slug": "2am-top",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 2434,
-    "timeDay": 2761,
+    "timeDay": 2930,
     "timeWeek": 2434,
     "timeMonth": 2434,
     "timeYear": 2434,
     "dailyMinutesDown": {
-      "2023-09-09": 28,
+      "2023-09-09": 17,
       "2023-09-06": 34
     }
   }
