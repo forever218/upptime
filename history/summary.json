@@ -4,19 +4,19 @@
     "url": "https://class8.top",
     "icon": "https://icons.duckduckgo.com/ip3/class8.top.ico",
     "slug": "class8",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 242,
-    "timeWeek": 289,
+    "timeDay": 261,
+    "timeWeek": 290,
     "timeMonth": 303,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-08-05": 0
+      "2024-08-05": 12
     }
   },
   {
@@ -26,7 +26,7 @@
     "slug": "2am-top",
     "status": "up",
     "uptime": "94.80%",
-    "uptimeDay": "58.74%",
+    "uptimeDay": "59.58%",
     "uptimeWeek": "27.31%",
     "uptimeMonth": "83.17%",
     "uptimeYear": "94.80%",
