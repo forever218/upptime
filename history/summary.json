@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/class8.top.ico",
     "slug": "class8",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 333,
-    "timeWeek": 345,
-    "timeMonth": 351,
+    "timeDay": 446,
+    "timeWeek": 365,
+    "timeMonth": 355,
     "timeYear": 331,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/2am.top.ico",
     "slug": "2am-top",
     "status": "up",
-    "uptime": "95.45%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "98.81%",
+    "uptime": "95.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "95.29%",
     "time": 2228,
-    "timeDay": 3768,
-    "timeWeek": 5942,
-    "timeMonth": 3274,
-    "timeYear": 2104,
+    "timeDay": 2068,
+    "timeWeek": 2572,
+    "timeMonth": 3270,
+    "timeYear": 2105,
     "dailyMinutesDown": {
       "2024-09-25": 46,
       "2024-09-20": 19,
@@ -84,8 +84,7 @@
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
-      "2023-10-04": 1212,
-      "2023-09-28": 21
+      "2023-10-04": 1212
     }
   }
 ]
