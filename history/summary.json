@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 322,
-    "timeWeek": 347,
-    "timeMonth": 354,
+    "timeDay": 310,
+    "timeWeek": 344,
+    "timeMonth": 351,
     "timeYear": 331,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/2am.top.ico",
     "slug": "2am-top",
     "status": "up",
-    "uptime": "95.51%",
+    "uptime": "95.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "95.29%",
-    "time": 2225,
-    "timeDay": 2035,
-    "timeWeek": 2512,
+    "time": 2224,
+    "timeDay": 2110,
+    "timeWeek": 1990,
     "timeMonth": 3311,
-    "timeYear": 2105,
+    "timeYear": 2107,
     "dailyMinutesDown": {
       "2024-09-29": 23,
       "2024-09-25": 46,
@@ -84,8 +84,7 @@
       "2023-10-08": 537,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 1212
+      "2023-10-05": 1440
     }
   }
 ]
