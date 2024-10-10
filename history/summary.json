@@ -22,7 +22,7 @@
     "url": "https://2am.top",
     "icon": "https://icons.duckduckgo.com/ip3/2am.top.ico",
     "slug": "2am-top",
-    "status": "up",
+    "status": "down",
     "uptime": "95.60%",
     "uptimeDay": "98.64%",
     "uptimeWeek": "99.55%",
@@ -34,6 +34,7 @@
     "timeMonth": 3314,
     "timeYear": 2112,
     "dailyMinutesDown": {
+      "2024-10-10": 0,
       "2024-10-09": 20,
       "2024-10-06": 25,
       "2024-09-29": 23,
